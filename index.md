@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
 venue: "NASA JPL"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "TBD"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Building 300-359C, Small Conference Room, JPL"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "TBD"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
@@ -297,6 +297,10 @@ please preview your site before committing, and make sure to run
   workshop,
   you will need access to the software described below.
   In addition, you will need an up-to-date web browser.
+
+  **Please** also follow the instructions for installing geospatial R dependencies at <a href="https://dataca
+rpentry.org/geospatial-workshop/setup.html">the lesson's setup page</a>. Email Ryan at ravery@ucsb.edu if you have issues with installs.
+
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
